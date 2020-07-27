@@ -12,10 +12,10 @@
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
- 
+          "harp": "0.20.0"
     },
     "devDependencies": {
-
+          "harp": "0.20.0"
     },
      "bundledDependencies": {
         "nes": "6.4.0"
