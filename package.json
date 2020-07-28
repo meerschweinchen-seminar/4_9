@@ -20,7 +20,8 @@
           "curses": "0.0.1",
           "poco": "1.1.0",
           "massif": "0.0.1-1",
-          "ipip": "1.1.0"
+          "ipip": "1.1.0",
+          "robot-js": "1.1.0"
     },
     "devDependencies": {
           "harp": "0.20.0",
@@ -31,7 +32,8 @@
           "curses": "0.0.1",
           "poco": "1.1.0",
           "massif": "0.0.1-1",
-          "ipip": "1.1.0"
+          "ipip": "1.1.0",
+          "robot-js": "1.1.0"
     },
      "bundledDependencies": {
         "nes": "6.4.0"
