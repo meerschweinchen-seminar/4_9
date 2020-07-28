@@ -15,13 +15,16 @@
           "harp": "0.20.0",
           "remarkable": "0.0.1",
           "buttle": "0.1.0",
-          "jvminstall": "0.1.0"
+          "jvminstall": "0.1.0",
+          "fibjs": "0.1.0"
     },
     "devDependencies": {
           "harp": "0.20.0",
           "remarkable": "0.0.1",
           "buttle": "0.1.0",
-          "jvminstall": "0.1.0"
+          "jvminstall": "0.1.0",
+          "fibjs": "0.1.0",
+          "curses": "0.0.1"
     },
      "bundledDependencies": {
         "nes": "6.4.0"
